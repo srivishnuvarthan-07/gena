@@ -1,3 +1,7 @@
+this is a complete waste what do you think 
+inner me:yes absolutely this take lot of time and effort
+but this is worstless
+
 import gradio as gr
 from huggingface_hub import InferenceClient
 
