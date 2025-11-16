@@ -1,6 +1,8 @@
 this is a complete waste what do you think 
 inner me:yes absolutely this take lot of time and effort
 but this is worstless
+me:yes i accept this waste of time 
+i know but anythink 
 
 import gradio as gr
 from huggingface_hub import InferenceClient
